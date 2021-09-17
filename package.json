@@ -1,5 +1,9 @@
 {
-	"name": "maprohu-vscodeext",
+	"name": "vscodeext",
+	"publisher": "maprohu",
+	"repository": {
+		"url": "https://github.com/maprohu/vscodeext"
+	},
 	"displayName": "maprohu-vscodeext",
 	"description": "",
 	"version": "0.0.1",
